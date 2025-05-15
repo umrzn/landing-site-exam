@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="60" fill="#F2F5FF"/>
+  <rect x="25" y="30" width="35" height="60" rx="4" fill="#0057FF"/>
+  <rect x="60" y="30" width="35" height="60" rx="4" fill="#FF9900"/>
+  <path d="M40 50L35 55L40 60" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M45 50L50 55L45 60" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44 45L41 65" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="35" y="70" width="15" height="3" rx="1" fill="white"/>
+  <rect x="35" y="75" width="15" height="3" rx="1" fill="white"/>
+  <rect x="35" y="80" width="15" height="3" rx="1" fill="white"/>
+  <path d="M75 50C78.3137 50 81 47.3137 81 44C81 40.6863 78.3137 38 75 38C71.6863 38 69 40.6863 69 44C69 47.3137 71.6863 50 75 50Z" fill="white"/>
+  <rect x="70" y="55" width="10" height="3" rx="1" fill="white"/>
+  <rect x="70" y="60" width="10" height="3" rx="1" fill="white"/>
+  <rect x="70" y="65" width="10" height="3" rx="1" fill="white"/>
+  <path d="M85 75C85 77.7614 82.7614 80 80 80C77.2386 80 75 77.7614 75 75C75 72.2386 77.2386 70 80 70C82.7614 70 85 72.2386 85 75Z" fill="white"/>
+  <path d="M75 75C75 77.7614 72.7614 80 70 80C67.2386 80 65 77.7614 65 75C65 72.2386 67.2386 70 70 70C72.7614 70 75 72.2386 75 75Z" fill="white"/>
+</svg>
